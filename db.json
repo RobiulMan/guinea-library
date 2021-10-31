@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "newbi",
+      "age": 1
+    },
+    {
+      "name": "fake parson",
+      "age": 0,
+      "id": 2
+    },
+    {
+      "name": "fake parson",
+      "age": 0,
+      "id": 3
+    },
+    {
+      "name": "fake parson",
+      "age": 0,
+      "id": 4
+    },
+    {
+      "name": "Name",
+      "age": 44,
+      "id": 5
+    },
+    {
+      "name": "cracker",
+      "age": 54,
+      "id": 6
+    }
+  ]
+}
